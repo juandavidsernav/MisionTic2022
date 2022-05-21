@@ -18,5 +18,3 @@ for key in edificio:
 
 print(cantidad)
 print(' '.join(ediFound))
-
-
